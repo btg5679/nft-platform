@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Klimt"
+    },
+    {
+      "trait_type": "Number",
+      "value": "16"
+    },
+    {
+      "trait_type": "Dominant Trait",
+      "value": "Human Face"
+    },
+    {
+      "trait_type": "Block Type",
+      "value": "Primary Identity"
+    },
+    {
+      "trait_type": "Membership",
+      "value": "General"
+    },
+    {
+      "trait_type": "Prize Block",
+      "value": false
+    }
+  ],
+  "description": "Gustav Klimt - The Kiss - Block 16",
+  "image": "https://gateway.pinata.cloud/ipfs/QmauBX8g6z59NMqhChc4gmsftZW9XygGssSkiyU5wgekyP",
+  "name": "TheKiss16"
+}

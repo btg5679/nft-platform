@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Klimt"
+    },
+    {
+      "trait_type": "Number",
+      "value": "14"
+    },
+    {
+      "trait_type": "Dominant Trait",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Block Type",
+      "value": "General"
+    },
+    {
+      "trait_type": "Membership",
+      "value": "General"
+    },
+    {
+      "trait_type": "Prize Block",
+      "value": false
+    }
+  ],
+  "description": "Gustav Klimt - The Kiss - Block 14",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeLVEMpMedmkUNK1QTDQV82nqsiUTCprsydKbqkyWLfV9",
+  "name": "TheKiss14"
+}

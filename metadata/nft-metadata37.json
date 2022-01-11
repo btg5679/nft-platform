@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Klimt"
+    },
+    {
+      "trait_type": "Number",
+      "value": "37"
+    },
+    {
+      "trait_type": "Dominant Trait",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Block Type",
+      "value": "General"
+    },
+    {
+      "trait_type": "Membership",
+      "value": "General"
+    },
+    {
+      "trait_type": "Prize Block",
+      "value": false
+    }
+  ],
+  "description": "Gustav Klimt - The Kiss - Block 37",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTnV9ruGN6X8zCkUXmGNS6Aj5nDKtVKhiuQqG1h3NLZ1R",
+  "name": "TheKiss37"
+}

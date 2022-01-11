@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Klimt"
+    },
+    {
+      "trait_type": "Number",
+      "value": "79"
+    },
+    {
+      "trait_type": "Dominant Trait",
+      "value": "Brush Stroke"
+    },
+    {
+      "trait_type": "Block Type",
+      "value": "General"
+    },
+    {
+      "trait_type": "Membership",
+      "value": "General"
+    },
+    {
+      "trait_type": "Prize Block",
+      "value": false
+    }
+  ],
+  "description": "Gustav Klimt - The Kiss - Block 79",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeJf5iS5ixigPUHsB4ZypHu4r3wwwCkdjvpYGLj2LVYxP",
+  "name": "TheKiss79"
+}
